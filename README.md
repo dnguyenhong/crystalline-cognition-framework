@@ -8,6 +8,6 @@ A modular system for building and deploying logic units ("Crystals") to enhance 
 
 ---
 
-> Plug it in as is. See it work. Let it explains itself.
+> Plug demo.md in as is. See it work. Let it explains itself.
 
 License: MIT
