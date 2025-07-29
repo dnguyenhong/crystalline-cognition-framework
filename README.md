@@ -8,6 +8,6 @@ A modular system for building and deploying logic units ("Crystals") to enhance 
 
 ---
 
-> Plug demo.md in as is. See it work. Let it explains itself.
+> Plug demo.md as is in any LLM (preferably GPT-o4) . See it work. Let it explains itself.
 
 License: MIT
